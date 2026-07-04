@@ -11,3 +11,4 @@
     - [Stack 영역](Stack영역.md)
 - [File Format](FileFormat.md)
     - [JPG](JPG.md)
+    - [BMP](BMP.md)
