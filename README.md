@@ -12,3 +12,4 @@
 - [File Format](FileFormat.md)
     - [JPG](JPG.md)
     - [BMP](BMP.md)
+    - [TGA](TGA.md)
