@@ -13,3 +13,4 @@
     - [JPG](JPG.md)
     - [BMP](BMP.md)
     - [TGA](TGA.md)
+    - [PNG](PNG.md)
