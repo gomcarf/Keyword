@@ -14,3 +14,4 @@
     - [BMP](BMP.md)
     - [TGA](TGA.md)
     - [PNG](PNG.md)
+    - [WAV](WAV.md)
