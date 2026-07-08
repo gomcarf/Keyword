@@ -15,3 +15,4 @@
     - [TGA](TGA.md)
     - [PNG](PNG.md)
     - [WAV](WAV.md)
+    - [AVI](AVI.md)
