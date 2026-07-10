@@ -4,6 +4,8 @@
 - [RAM VS VRAM](RAMvsVRAM.md)
 - [Compute Shader](ComputeShader.md)
 - [Process](Process.md)
+    - [Thread](Thread.md)
+    - [Process](Process2.md)
 - [Process Memory](ProcessMemoryLayout.md)
     - [Code 영역](Code영역.md)
     - [Data 영역](Data영역.md)
@@ -16,4 +18,3 @@
     - [PNG](PNG.md)
     - [WAV](WAV.md)
     - [AVI](AVI.md)
-- [Thread](Thread.md)
