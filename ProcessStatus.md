@@ -55,12 +55,8 @@ PCB(Process Control Block, 프로세스 제어 블록)에서 프로세스 상태
 
 | **상태** | **설명** |
 | --- | --- |
-| **Suspended Ready**
-(준비 보류) | Ready 상태에서 메모리가 부족해 디스크로 쫓겨난(Swap-out) 상태.
-메모리가 확보되면 다시 Ready 상태로 돌아옴(Swap-in). |
-| **Suspended Blocked**
-(대기 보류) | Waiting 상태에서 메모리가 부족해 디스크로 쫓겨난 상태. 
-대기하던 이벤트가 완료되면 `Suspended Ready` 상태로 전이. |
+| **Suspended Ready**<br>(준비 보류) | Ready 상태에서 메모리가 부족해 디스크로 쫓겨난(Swap-out) 상태.<br>메모리가 확보되면 다시 Ready 상태로 돌아옴(Swap-in). |
+| **Suspended Blocked**<br>(대기 보류) | Waiting 상태에서 메모리가 부족해 디스크로 쫓겨난 상태. <br>대기하던 이벤트가 완료되면 `Suspended Ready` 상태로 전이. |
 
 ## 역할
 
