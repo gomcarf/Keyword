@@ -8,6 +8,8 @@
 
 ⇒간단하게 메모리 위에 적재된 프로그램
 
+<img src="Images/image4.png" width=300></img>
+
 ## 프로세스의 구조
 
 - **Code(Text) 영역** : 프로그래머가 작성한 소스 코드가 기계어 형태로 저장되는 영역. (Read-Only)

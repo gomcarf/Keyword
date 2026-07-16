@@ -10,6 +10,7 @@
     - [Process](Process2.md)
     - [Process Control Block](PCB(ProcessControlBlock).md)
         - [Process ID](PID.md)
+        - [Process Status](ProcessStatus.md)
     - [Process VS Thread](ProcessVsThread.md)
 - [Process Memory](ProcessMemoryLayout.md)
     - [Code 영역](Code영역.md)

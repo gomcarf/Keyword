@@ -9,9 +9,6 @@
 | **구현 형태** | - Windows: `DWORD` (32비트 부호 없는 정수) <br>- Linux: `pid_t` (정수형)<br>- POSIX (`pthread`): `pthread_t` (정수 또는 TCB를 가리키는 포인터) |
 | **관계성** | 항상 부모 프로세스의 PID(Process ID) 하위에 종속됨 |
 
-
-<img src="Images/image5.png" width="500"></img>
-
 ## TCB와 Thread ID의 개념
 
 - **TCB (Thread Control Block) :** 운영체제 커널이 하나의 스레드를 관리하기 위해 필요한 모든 정보를 담고 있는 커널 내의 데이터 구조체.
