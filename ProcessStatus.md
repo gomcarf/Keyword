@@ -5,17 +5,17 @@ PCB(Process Control Block, 프로세스 제어 블록)에서 프로세스 상태
 ## 1. 프로세스 상태(5-State Model)
 
 ```markdown
-				[Admitted]          [Dispatch]
-(New) ------------> (Ready) ----------> (Running) -----------> (Terminated)
- 											^                    |      [Exit]
-											|    [Timeout]       |
-											+--------------------+
-											|                    |
-											|    [I/O or Event]  |
-											+--------------------+
-																|
-																v
-														(Waiting)
+	    [Admitted]           [Dispatch]
+(New) -------------> (Ready) ----------> (Running) -----------> (Terminated)
+						^                    |      [Exit]
+						|    [Timeout]       |
+						+--------------------+
+						|                    |
+						|    [I/O or Event]  |
+						+--------------------+
+							 		|
+									v
+								(Waiting)
 ```
 
 ### ① 생성 (New)
