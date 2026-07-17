@@ -7,6 +7,7 @@
     - [Thread](Thread.md)
     - [Thread Control Block](TCB.md)
         - [Thread ID](TID.md)
+        - [Thread Status](ThreadStatus.md)
     - [Process](Process2.md)
     - [Process Control Block](PCB(ProcessControlBlock).md)
         - [Process ID](PID.md)
