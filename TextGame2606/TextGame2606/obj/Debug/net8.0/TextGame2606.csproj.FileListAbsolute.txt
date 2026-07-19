@@ -1,0 +1,14 @@
+D:\Homework\TextGame2606\TextGame2606\bin\Debug\net8.0\TextGame2606.exe
+D:\Homework\TextGame2606\TextGame2606\bin\Debug\net8.0\TextGame2606.deps.json
+D:\Homework\TextGame2606\TextGame2606\bin\Debug\net8.0\TextGame2606.runtimeconfig.json
+D:\Homework\TextGame2606\TextGame2606\bin\Debug\net8.0\TextGame2606.dll
+D:\Homework\TextGame2606\TextGame2606\bin\Debug\net8.0\TextGame2606.pdb
+D:\Homework\TextGame2606\TextGame2606\obj\Debug\net8.0\TextGame2606.GeneratedMSBuildEditorConfig.editorconfig
+D:\Homework\TextGame2606\TextGame2606\obj\Debug\net8.0\TextGame2606.AssemblyInfoInputs.cache
+D:\Homework\TextGame2606\TextGame2606\obj\Debug\net8.0\TextGame2606.AssemblyInfo.cs
+D:\Homework\TextGame2606\TextGame2606\obj\Debug\net8.0\TextGame2606.csproj.CoreCompileInputs.cache
+D:\Homework\TextGame2606\TextGame2606\obj\Debug\net8.0\TextGame2606.dll
+D:\Homework\TextGame2606\TextGame2606\obj\Debug\net8.0\refint\TextGame2606.dll
+D:\Homework\TextGame2606\TextGame2606\obj\Debug\net8.0\TextGame2606.pdb
+D:\Homework\TextGame2606\TextGame2606\obj\Debug\net8.0\TextGame2606.genruntimeconfig.cache
+D:\Homework\TextGame2606\TextGame2606\obj\Debug\net8.0\ref\TextGame2606.dll
