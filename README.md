@@ -3,6 +3,7 @@
 - [CPU Register](CPURegister.md)
     - [CPU Program Counter](ProgramCounter.md)
     - [CPU Instruction Register](CPUIR.md)
+    - [CPU MAR](CPUMAR.md)
 - [CUDA](CUDA.md)
 - [RAM VS VRAM](RAMvsVRAM.md)
 - [Compute Shader](ComputeShader.md)
