@@ -1,6 +1,6 @@
 # TCB
 
-<img src="Images/image6.png" width=500></img>
+<img src="../Images/image6.png" width=500></img>
 
 | 구분 | TCB 핵심 내용 |
 | --- | --- |

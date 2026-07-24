@@ -8,7 +8,7 @@
 
 ⇒간단하게 메모리 위에 적재된 프로그램
 
-<img src="Images/image1.png" width=300></img>
+<img src="../Images/image1.png" width=300></img>
 
 ## 프로세스의 구조
 

@@ -2,11 +2,11 @@
 
 프로세스는 각 메모리 공간을 시스템으로부터 할당 받게 됨.
 
-<img src="Images/image1.png" width=300 height=400></img>
+<img src="../Images/image1.png" width=300 height=400></img>
 
 ## 구성
 
-<img src="Images/image.png" width=300 height=200></img>
+<img src="../Images/image.png" width=300 height=200></img>
 
 ## Code(Text) 영역
 

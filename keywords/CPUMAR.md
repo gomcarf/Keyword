@@ -1,6 +1,6 @@
 # CPU - MAR(Memory Address Register)
 
-<img src="Images/image11.png" width=600></img>
+<img src="../Images/image11.png" width=600></img>
 
 | **구분** | **주요 내용** |
 | --- | --- |

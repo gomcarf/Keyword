@@ -1,6 +1,6 @@
 # CPU - IR(Instruction Register)
 
-<img src="Images/image10.png" width=600></img>
+<img src="../Images/image10.png" width=600></img>
 
 ## 정의
 

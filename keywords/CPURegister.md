@@ -1,6 +1,6 @@
 # CPU Register
 
-<img src="Images/image7.png" width=400></img>
+<img src="../Images/image7.png" width=400></img>
 
 | **구분** | **주요 내용** | **비고 / 예시** |
 | --- | --- | --- |

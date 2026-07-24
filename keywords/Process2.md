@@ -1,6 +1,6 @@
 # Process
 
-<img src="Images/image.png" width=500></img>
+<img src="../Images/image.png" width=500></img>
 
 | **구분** | **주요 내용** |
 | --- | --- |

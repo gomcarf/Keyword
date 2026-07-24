@@ -1,6 +1,6 @@
 # TCB - PC
 
-<img src="Images/image9.png" width=600></img>
+<img src="../Images/image9.png" width=600></img>
 
 | **구분** | **CPU 레지스터의 PC** | **PCB의 Program Counter** | **TCB의 Program Counter** |
 | --- | --- | --- | --- |

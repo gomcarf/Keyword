@@ -1,6 +1,6 @@
 # CPU Register - PC(Program Counter)
 
-<img src="Images/image8.png" width=500></img>
+<img src="../Images/image8.png" width=500></img>
 
 | **구분** | **주요 내용** |
 | --- | --- |

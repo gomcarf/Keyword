@@ -1,6 +1,6 @@
 # PCB(Process Control Block)
 
-<img src="Images/image4.png" width =300></img>
+<img src="../Images/image4.png" width =300></img>
 
 | **구분** | **주요 내용** | **비유 및 설명** |
 | --- | --- | --- |
